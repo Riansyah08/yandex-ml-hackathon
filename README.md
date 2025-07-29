@@ -48,7 +48,7 @@ Install all dependencies:
 1. Clone the repository:  
 **git clone** https://github.com/yourusername/jakarta-travel-time-prediction.git  
 **cd** jakarta-travel-time-prediction  
-2. Open the notebook:
+2. Open the notebook:  
 jupyter notebook Machine_Learning_Hackaton.ipynb
 3. Run all cells to:
    - Load and preprocess data
